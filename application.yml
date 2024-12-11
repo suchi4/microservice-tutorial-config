@@ -1,4 +1,7 @@
-eureka:
+spring:
+  application:
+    name:
+ eureka:
   instance:
     hostname: localhost
   client:
